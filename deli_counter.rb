@@ -6,4 +6,6 @@ def take_a_number(customers)
   
 end
 
-def 
+def now_serving(customers)
+  
+end
